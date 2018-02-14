@@ -13,7 +13,7 @@ public class Account {
 
 	public void showData() {
 
-		System.out.println("Imprimindo os Elementos A e B, são:  " + this.a + " e " + this.b);
+		System.out.println("Imprimindo os Elementos A e B, São:  " + this.a + " e " + this.b);
 
 	}
 
